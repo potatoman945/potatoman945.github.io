@@ -1,6 +1,6 @@
 # potatoman945.github.io
 
-Map of My Favorite Destinationsss
+Map of My Favorite Destinations
 
 Sources:
 Wikipedia: Fisherman's Wharf, Boardwalk, Taipei 101
